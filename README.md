@@ -6,6 +6,9 @@
  I made a [Joke Generator](https://jokes-generater.netlify.app/) (Click on the link and check it ✔✅) using API from [api-ninja](https://api-ninjas.com/). This is an excellent api.
 
 
+ ## Follow these simple steps 👇
+
+
 - 1: Create an Account on [api-ninja](https://api-ninjas.com/)  🐱‍👤
 
 - 2: Take an API KEY. 
@@ -19,6 +22,10 @@
 - 5: Then go on that file, where you are using api key and paste this code:
 
  const API = import.meta.env.VITE_JOKES  
+
+
+
+- this code is for react.(vite).js 👆
 
 
 
